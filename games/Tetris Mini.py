@@ -1,3 +1,9 @@
+# --- PLUGIN METADATA (Read by Dispatcher._load_python_module) ---
+__author__ = "Sebastian Januchowski"
+__category__ = "games"
+__group__ = "entertainment"
+__desc__ = "Retro arcade Tetris game with levels, high-score ranking and neon graphics."
+
 import tkinter as tk
 from tkinter import simpledialog
 import random
